@@ -5,7 +5,7 @@ public class ATM {
     private Scanner scanner;
 
     public ATM() {
-        balance = 1000.0; 
+        balance = 2000.0; 
         scanner = new Scanner(System.in);
     }
 
